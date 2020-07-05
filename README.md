@@ -6,3 +6,4 @@
   * **Day 1 [Arranging Coins](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/ArrangingCoins.cpp)**
   * **Day 2 [Binary Tree Level Order Traversal II](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/BinaryTreeLevelOrderTraversalII.cpp)**
   * **Day 3 [Prison Cells After N Days](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/PrisonCellsAfterNDays.cpp)**
+  * **Day 4 [Ugly Number II](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/UglyNumberII.cpp)**

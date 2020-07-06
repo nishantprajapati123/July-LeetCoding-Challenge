@@ -8,3 +8,4 @@
   * **Day 3 [Prison Cells After N Days](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/PrisonCellsAfterNDays.cpp)**
   * **Day 4 [Ugly Number II](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/UglyNumberII.cpp)**
   * **Day 5 [Hamming Distance](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/HammingDistance.cpp)**
+  * **Day 6 [Plus One](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%201/PlusOne.cpp)**

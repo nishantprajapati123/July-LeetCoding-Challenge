@@ -13,3 +13,4 @@
 
 **Week 2**
   * **Day 8 [3Sum](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%202/3Sum.cpp)**
+  * **Day 9 [Maximum Width of Binary Tree](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%202/MaximumWidthOfBinaryTree.cpp)**

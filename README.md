@@ -24,3 +24,4 @@
   * **Day 15 [Reverse Words in a String](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%203/ReverseWordsInAString.cpp)**
   * **Day 16 [Pow(x,n)](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%203/Pow(x%2C%20n).cpp)**
   * **Day 17 [Top K Frequent Elements](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%203/TopKFrequentElements.cpp)**
+  * **Day 18 [Course Schedule II](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%203/CourseScheduleII.cpp)**

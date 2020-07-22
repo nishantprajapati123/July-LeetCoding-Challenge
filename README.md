@@ -28,3 +28,6 @@
   * **Day 19 [Add Binary](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%203/AddBinary.cpp)**
   * **Day 20 [Remove Linked List Elements](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%203/RemoveLinkedListElements.cpp)**
   * **Day 21 [Word Search](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%203/WordSearch.cpp)**
+  
+**Week 4**
+  * **Day 22 [Binary Tree Zigzag Level Order Traversal](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%204/BinaryTreeZigzagLevelOrderTraversal.cpp)**

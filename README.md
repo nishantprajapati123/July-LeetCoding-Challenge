@@ -40,3 +40,5 @@
   
 **Week 5**
   * **Day 29 [Best Time to Buy and Sell Stock with Cooldown](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%205/BestTimeToBuyAndSellStockWithCooldown.cpp)**
+  * **Day 30 [Word Break II](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%205/WordBreakII.cpp)**
+  * **Day 31 [Climbing Stairs](https://github.com/nishantprajapati123/July-LeetCoding-Challenge/blob/master/Week%205/ClimbingStairs.cpp)**
